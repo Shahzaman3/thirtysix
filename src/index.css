@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+      font-family: anzo3;
+      src: url(/src/assets/anzo3.woff2);
+}
+
+body{
+      /* background-color: #fd2c2a; */
+}
+
+canvas{
+      pointer-events: none;
+}
